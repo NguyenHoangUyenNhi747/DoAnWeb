@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="resources/css/uikit.min.css" />
 <link rel="stylesheet" href="resources/css/style.css" />
 <link rel="stylesheet" href="resources/css/profile-user.css" />
-<link rel="stylesheet" href="resources/css/pannel_product.css" />
+
 <script src="resources/js/uikit.min.js"></script>
  <script src="resources/js/uikit-icons.min.js"></script>
 
